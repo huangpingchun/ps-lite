@@ -1,4 +1,4 @@
-fork的这个版本 已经ps头文件和simple_app.h文件中 定义的函数和类都加了inline，不同于早期版本，这个多个目标文件是可以include的
+ps: fork的这个版本 已经ps头文件和simple_app.h文件中 定义的函数和类都加了inline，不同于早期版本，这个多个目标文件是可以include的
 以后可以基于这个版本的ps core来开发ps程序
 
 <img src="http://parameterserver.org/images/parameterserver.png"  width=400 />
